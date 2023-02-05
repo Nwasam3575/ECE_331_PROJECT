@@ -1,1 +1,5 @@
 # ECE_331_PROJECT
+This project uses speech to text technology to play a guessing game
+NAME: SAMUEL EMMANUEL EMENIKE
+REG NO: 2019364051
+DEPT: ELECTRONICS AND COMPUTER ENGINEERING
